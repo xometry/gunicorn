@@ -673,7 +673,7 @@ class WorkerClass(Setting):
           ``pip install gunicorn[eventlet]``)
         * ``gevent``   - Requires gevent >= 1.4 (or install it via
           ``pip install gunicorn[gevent]``)
-        * ``tornado``  - Requires tornado >= 0.2 (or install it via
+        * ``tornado``  - Requires tornado >= 6.5.6 (or install it via
           ``pip install gunicorn[tornado]``)
         * ``gthread``  - Python 2 requires the futures package to be installed
           (or install it via ``pip install gunicorn[gthread]``)
