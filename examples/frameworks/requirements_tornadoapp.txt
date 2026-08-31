@@ -1,1 +1,1 @@
-tornado<6
+tornado<7
